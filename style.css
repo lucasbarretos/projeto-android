@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+}
+
+main{
+    min-width: 420px;
+    max-width: 520px;
+}
+
+.card{
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    padding: 10px;
+    padding-bottom: 50px;
+    width: 500px;
+    height: 500px;
+}
+.card img{
+    width: 250px;
+}
+p{
+    text-align: justify;
+}
